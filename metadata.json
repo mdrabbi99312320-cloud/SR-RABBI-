@@ -1,0 +1,6 @@
+{
+  "name": "SR Inbox",
+  "description": "SR Inbox is a premium, fully featured social media application with scrolling feed, stories, immersive Reels, direct messaging inbox, location checking, follow interactions, and high-fidelity customization settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
